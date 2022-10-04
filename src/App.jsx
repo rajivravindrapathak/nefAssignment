@@ -1,12 +1,16 @@
 import { useState } from 'react'
+import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import Neftx from './Components/Neftx'
+import Navbar from './Components/Navbar'
 
 function App() {
 
   return (
     <div className="App">
-      <Neftx />
+      <h2>My application</h2>
+      <Routes>
+        <Navbar />
+      </Routes>
     </div>
   )
 }
