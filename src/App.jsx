@@ -12,7 +12,6 @@ function App() {
 
   return (
     <div className="App">
-      <h2>My application</h2>
       <Navbar />
       <Routes>
         <Route path='/first' element={<First />} />

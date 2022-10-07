@@ -1,18 +1,18 @@
 import React from 'react'
 // import { Link } from 'react-router-dom'
 
-const Discount = ({ idCategory, strCategory, strCategoryDescription, strCategoryThumb }) => {
+const Discount = ({ image, Receipe, price, discount }) => {
     
   return (
     // <Link to={"/ProductPage"}> 
     
       <div style={{marginTop:"10px"}} >
       
-        <img src={strCategoryThumb} alt="img book"/>
-        <h2>id: {idCategory}</h2>
-        <h2 >Name: {strCategory}</h2>
-        <h2>strCategoryDescription: {strCategoryDescription}</h2>
-        
+        <img src={image} alt="img book"/>
+        <h2>Receipe: {Receipe}</h2>
+        <h2>price: {price}</h2>
+        <h2>price: {price}</h2>
+        <h2>discount: {discount}</h2>
         <hr />
       </div>
     // </Link>
