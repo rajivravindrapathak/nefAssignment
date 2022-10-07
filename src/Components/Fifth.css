@@ -1,3 +1,7 @@
 .receipe {
     text-align: center;
 }
+
+.first {
+    display: flex;
+}

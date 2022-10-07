@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import Discount from "./Discount"
 import "./Fifth.css"
 
-const Fourth = () => {
+const Fifth = () => {
     const [list, setList] = useState([]);
      
     useEffect(()=>{
@@ -17,7 +17,7 @@ const Fourth = () => {
   return (
     <div className='receipe'>
       <h1>Fifth store Recipe</h1>
-      <div style={{textAlign:"center",marginTop:"15px"}}>
+      <div className='first'>
         {list.map((e) => (
             <Discount
 
@@ -36,4 +36,4 @@ const Fourth = () => {
   )
 }
 
-export default Fourth
+export default Fifth

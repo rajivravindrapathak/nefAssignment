@@ -17,7 +17,7 @@ const Third = () => {
   return (
     <div className='receipe'>
       <h1>Third store Recipe</h1>
-      <div style={{textAlign:"center",marginTop:"15px"}}>
+      <div className='first'>
         {list.map((e) => (
             <Discount
 
