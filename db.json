@@ -3,26 +3,26 @@
         {
             "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
             "Receipe": "starter",
-            "price": 521,
+            "price": 720,
+            "discount": 3
+        },
+        {
+            "image": "https://www.themealdb.com//images//category//goat.png",
+            "Receipe": "goat",
+            "price": 921,
             "discount": 5
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https://www.themealdb.com//images//category//breakfast.png",
+            "Receipe": "breakfast",
+            "price": 545,
+            "discount": 1
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
-        },
-        {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https://www.themealdb.com//images//category//vegetarian.png",
+            "Receipe": "vegetarian",
+            "price": 784,
+            "discount": 4
         }
     ],
     "storeT": [
