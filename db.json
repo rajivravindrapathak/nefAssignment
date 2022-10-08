@@ -27,106 +27,106 @@
     ],
     "storeT": [
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/vegan.png",
+            "Receipe": "vegan",
+            "price": 400,
+            "discount": 2
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
+            "image": "https:\/\/www.themealdb.com\/images\/category\/starter.png",
             "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "price": 851,
+            "discount": 7
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/side.png",
+            "Receipe": "side",
+            "price": 900,
+            "discount": 6
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/seafood.png",
+            "Receipe": "seafood",
+            "price": 356,
+            "discount": 4
         }
     ],
     "storeTh": [
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/pork.png",
+            "Receipe": "pork",
+            "price": 1020,
+            "discount": 10
+        },
+        {
+            "image": "https:\/\/www.themealdb.com\/images\/category\/pasta.png",
+            "Receipe": "pasta",
+            "price": 600,
+            "discount": 2
         },
         {
             "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
+            "Receipe": "miscellaneous",
+            "price": 740,
             "discount": 5
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
-        },
-        {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/lamb.png",
+            "Receipe": "lamb",
+            "price": 452,
+            "discount": 3
         }
     ],
     "storeF": [
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/dessert.png",
+            "Receipe": "dessert",
+            "price": 456,
+            "discount": 3
+        },
+        {
+            "image": "https:\/\/www.themealdb.com\/images\/category\/chicken.png",
+            "Receipe": "chicken",
+            "price": 758,
+            "discount": 4
         },
         {
             "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
             "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "price": 758,
+            "discount": 6
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
-        },
-        {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/seafood.png",
+            "Receipe": "categry",
+            "price": 789,
+            "discount": 8
         }
     ],
     "storeFi": [
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
+            "image": "https:\/\/www.themealdb.com\/images\/category\/seafood.png",
             "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "price": 985,
+            "discount": 11
         },
         {
             "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
             "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "price": 659,
+            "discount": 4
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https://www.themealdb.com//images//category//goat.png",
+            "Receipe": "goat",
+            "price": 480,
+            "discount": 2
         },
         {
-            "image": "https:\/\/www.themealdb.com\/images\/category\/miscellaneous.png",
-            "Receipe": "starter",
-            "price": 521,
-            "discount": 5
+            "image": "https:\/\/www.themealdb.com\/images\/category\/vegan.png",
+            "Receipe": "vegan",
+            "price": 150,
+            "discount": 0
         }
     ]
 }
