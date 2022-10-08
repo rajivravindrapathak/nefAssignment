@@ -1,0 +1,14 @@
+button {
+    background-color: teal;
+    border: none;
+    color: whitesmoke;
+    width: 250px;
+    height: 50px;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+
+.dis {
+    margin: 1%;
+}
